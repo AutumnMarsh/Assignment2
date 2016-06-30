@@ -273,7 +273,7 @@ console.log(coinFlip);
             alert("The flip was tails and you chose tails...you win!");
     }
     
-*/
+
 
 // step 8
 var coinFlip = (Math.floor(Math.random() * 2) == 0);
@@ -292,7 +292,7 @@ var tails = new Boolean("false");
         console.log("Tails worked");
     }
 
-   
+  */ 
 
 
 
